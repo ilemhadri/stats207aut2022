@@ -1,2 +1,7 @@
-# stats207aut2022
-Material for STATS207: Introduction to Time Series Analysis
+# STATS207: Introduction to Time Series Analysis
+
+Instructor: Emily Fox
+
+TAs: Ismael Lemhadri and Timothy Sudijono
+
+_Stanford University, Autumn 2022_
